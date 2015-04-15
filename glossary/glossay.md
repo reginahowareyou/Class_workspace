@@ -11,7 +11,9 @@ Put your descriptions below.
 ##Data
 
 ##Data types
-
+##a data type or simply type is a classification identifying one of various types of data, such as real, integer or Boolean, that determines the possible values for that type.
+##the operations that can be done on values of that type
+##the meaning of the data; and the way values of that type can be stored
 ##Control flow statements
 
 ##Function
